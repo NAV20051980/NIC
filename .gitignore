@@ -1,0 +1,29 @@
+# Server
+server/node_modules/
+server/users.db
+server/users.db-wal
+server/users.db-shm
+
+# Flutter / Dart
+.dart_tool/
+**/build/
+**/.dart_tool/
+.packages
+.pub-cache/
+.pub/
+
+# Android
+**/android/.gradle/
+**/android/local.properties
+**/android/app/build/
+**/android/captures/
+
+# IDE and OS files
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+.vscode/
+**/.DS_Store
+.DS_Store
+Thumbs.db
