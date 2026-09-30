@@ -17,6 +17,8 @@ server/users.db-shm
 **/android/local.properties
 **/android/app/build/
 **/android/captures/
+*.apk
+**/*.apk
 
 # IDE and OS files
 .idea/
